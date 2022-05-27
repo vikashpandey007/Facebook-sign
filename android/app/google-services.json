@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709201571514",
+    "project_id": "authfb-86762",
+    "storage_bucket": "authfb-86762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709201571514:android:ab88c0168653b23c929c83",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709201571514-a5rna3u5kj94i7qi83tcdtmnvfqgbg0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKP77liR_PWvSwHXm16RiAP1JPVwyGNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709201571514-a5rna3u5kj94i7qi83tcdtmnvfqgbg0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
